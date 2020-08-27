@@ -1,2 +1,2 @@
 # Honors_Project
-Using this program u can convert barches of images to greyscale 
+Using this program one can convert barches of images to greyscale 
